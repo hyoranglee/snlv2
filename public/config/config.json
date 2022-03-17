@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe21caa607e7b98745962709aa9ff0be747186b7a9a022224074520b5046202a8",
+  "SCAN_LINK": "https://baobab.scope.klaytn.com/tx/0xe21caa607e7b98745962709aa9ff0be747186b7a9a022224074520b5046202a8?tabId=nftTransfer",
+  "NETWORK": {
+    "NAME": "Klaytn",
+    "SYMBOL": "Klay",
+    "ID": 1001
+  },
+  "NFT_NAME": "SciNotLame",
+  "SYMBOL": "SNLNFT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/snl-v2",
+  "SHOW_BACKGROUND": true
+}
